@@ -1,0 +1,1 @@
+print('viuva negra a melhor')
